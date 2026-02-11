@@ -1,0 +1,16 @@
+{
+    "title": "Blog Setup",
+    "description": "Successfully deployed my personal blog using Twilight theme on GitHub Pages.",
+    "type": "milestone",
+    "startDate": "2026-02-12",
+    "endDate": "",
+    "skills": [
+        "Astro",
+        "GitHub Pages"
+    ],
+    "achievements": [],
+    "links": [],
+    "icon": "material-symbols:flag",
+    "color": "#10B981",
+    "featured": true
+}

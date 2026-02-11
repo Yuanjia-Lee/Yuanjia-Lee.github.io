@@ -42,7 +42,7 @@ site:
   # 主题色配置
   themeColor:
     # 主题色的默认色相 (范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345)
-    hue: 255
+    hue: 175
   # 默认主题 ("system" 跟随系统 | "light" 浅色 | "dark" 深色)
   defaultTheme: "dark"
   # 壁纸配置
@@ -188,7 +188,7 @@ navbar:
         - # 二级导航链接 - 相册 (预设)
           "Albums"
         - # 二级导航链接 - 动画 (预设)
-          "Anime"
+          "Poems"
     - # 一级导航链接 - 好友 (预设)
       "Friends"
     - # 一级导航链接 - 关于 (预设)
@@ -252,7 +252,7 @@ profile:
   # 信息配置
   name: "元嘉"
   # 简介配置
-  bio: "Hi"
+  bio: "Hi, I'm Yuanjia Lee, an AI Infra learner."
   # 链接配置
   links:
     - # 链接示例
@@ -396,7 +396,7 @@ musicPlayer:
 # 看板娘配置
 pio:
   # 启用看板娘
-  enable: false
+  enable: true
   # 模型文件路径
   models:
     - "/pio/models/pio/model.json"

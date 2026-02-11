@@ -1,0 +1,23 @@
+{
+    "title": "My Personal Blog",
+    "description": "A personal space to share my thoughts and projects.",
+    "type": "project",
+    "startDate": "2026-02-12",
+    "endDate": "",
+    "skills": [
+        "Writing",
+        "Thinking"
+    ],
+    "achievements": [],
+    "links": [
+        {
+            "name": "Live Site",
+            "url": "https://Yuanjia-Lee.github.io",
+            "type": "project"
+        }
+    ],
+    "images": [],
+    "icon": "material-symbols:book",
+    "color": "#3B82F6",
+    "featured": true
+}
