@@ -2,11 +2,14 @@
     "title": "My Personal Blog",
     "description": "A personal space to share my thoughts and projects.",
     "type": "project",
+    "category": "website",
+    "status": "completed",
     "startDate": "2026-02-12",
     "endDate": "",
-    "skills": [
-        "Writing",
-        "Thinking"
+    "techStack": [
+        "Astro",
+        "TailwindCSS",
+        "Svelte"
     ],
     "achievements": [],
     "links": [
@@ -16,7 +19,7 @@
             "type": "project"
         }
     ],
-    "images": [],
+    "image": "/images/default-project.png",
     "icon": "material-symbols:book",
     "color": "#3B82F6",
     "featured": true
