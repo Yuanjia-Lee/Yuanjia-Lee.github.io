@@ -2,7 +2,7 @@
 
 ## How to Apply
 
-Please send your website information to: xxx@xxx.com
+Please send your website information to: **yj2016813351@gmail.com**
 
 Email Subject:
 ```
