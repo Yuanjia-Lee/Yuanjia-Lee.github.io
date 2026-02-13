@@ -1,6 +1,7 @@
 ---
-title: "Z\-Image ncnn Vulkan Test"
+title: Z\-Image ncnn Vulkan Test
 published: 2026-2-13
+description: Z\-Image ncnn Vulkan Test
 tags: [test]
 category: test
 draft: false
@@ -8,7 +9,7 @@ draft: false
 # Z\-Image ncnn Vulkan Test
 
 注意到
-**https://github.com/nihui/zimage-ncnn-vulkan/releases**
+**https://github.com/nihui/zimage-ncnn-vulkan/**
 这份有趣的新工作，遂于闲暇时在本地测试。
 
 ### Base
