@@ -1,7 +1,7 @@
 ---
-title: Z\-Image ncnn Vulkan Test
+title: Z-Image ncnn Vulkan Test
 published: 2026-2-13
-description: Z\-Image ncnn Vulkan Test
+description: Z-Image ncnn Vulkan Test
 tags: [test]
 category: test
 draft: false
